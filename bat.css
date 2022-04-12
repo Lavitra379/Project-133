@@ -1,0 +1,56 @@
+body {
+    background-image:url("background.jpg");
+    background-size: cover;
+}
+
+#bat_back {
+    background-image:url("back.png");
+    background-size: cover;
+    height: 50px;
+    width: 70px;  
+    border-radius: 5px;
+    
+  }
+
+.heading
+{
+    font-size: x-large;
+    height:50px;
+    width:  500px;
+    border-radius: 5px;
+    background-color: rgb(255, 251, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    
+}
+
+.heading_1
+{
+    font-size: x-large;
+    height: 50px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    padding-top: 10px;
+}
+
+.heading_2
+{
+    font-size: small;
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+    background-color: rgb(0, 255, 13);
+    font-family: Arial, Helvetica, sans-serif;
+    
+    padding-top: 10px;
+}
+
+canvas
+{
+   
+        box-shadow: 10px 10px 10px rgb(1, 255, 255);
+        border-radius: 10px;
+}
